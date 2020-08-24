@@ -54,7 +54,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayosol&theme=nightowl&hide_langs_below=1" />
 </a>
 <a href="https://github.com/ayosol">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=ayosol&theme=algolia&show_icons=true&line_height=27" alt="Solomon's github stats"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=ayosol&theme=algolia&show_icons=true&line_height=27&count_private=true" alt="Solomon's github stats"/>
 </a>
 
 <!--
