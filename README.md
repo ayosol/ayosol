@@ -25,7 +25,7 @@
 <br/>
 
 
-- 🔭 I’m currently working on a few private projects (E-commerce, Password saver and Courier services).
+- 🔭 I’m currently working on a few private projects.
 - 🌱 I’m currently learning Flutter and Javascript.
 - 👯 I’m looking to collaborate on any interesting mobile project.
 <!-- - 🤔 I’m looking for help with VelocityX documentation.-->
