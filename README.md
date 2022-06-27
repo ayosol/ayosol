@@ -24,9 +24,7 @@
 <br/>
 <br/>
 
-
-- 🔭 I’m currently working on a few private projects.
-- 🌱 I’m currently learning Flutter and Javascript.
+- 🌱 I currently work with React Native and Flutter.
 - 👯 I’m looking to collaborate on any interesting mobile project.
 <!-- - 🤔 I’m looking for help with VelocityX documentation.-->
 - 💬 Ask me about Mobile Development.
