@@ -1,4 +1,4 @@
-# Hola, I'm Solomon Ayodele Ogunbowale!<!--(https://pawan.live)--> ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
+# Hola, I'm Solomon Ayodele Ogunbowale ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 
 Software Developer || Technical Lead || Programming Tutor
 ---------------------------------------------------------
@@ -15,7 +15,6 @@ Software Developer || Technical Lead || Programming Tutor
 *   😄 Pronouns: He/His/Him
 *   ⚡ Fun fact: 
 
-<br/>
 <br/>
 
 ### LANGUAGE, TOOLS  AND SKILLS
@@ -43,7 +42,6 @@ Software Developer || Technical Lead || Programming Tutor
 </p>
 
 <br/>
-<br/>
                     
 ### SOCIALS
 <img src="https://img.shields.io/twitter/follow/ayosol4u?logo=twitter&style=for-the-badge&color=0891b2&labelColor=000000"/></a>
@@ -61,8 +59,6 @@ Software Developer || Technical Lead || Programming Tutor
 <a href="https://www.linkedin.com/in/solomonayodeleo" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
 <a href="https://www.twitter.com/ayosol4u" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 
-
-<br/>
 <br/>
 
 ### BADGES
