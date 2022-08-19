@@ -11,7 +11,7 @@ Software Developer || Technical Lead || Programming Tutor
 *   🌱 I currently work with React Native and Flutter.
 *   👯 I’m looking to collaborate on any interesting mobile project.
 *   💬 Ask me about Mobile Development.
-*   📫 You can reach me here -[Twitter - @ayosol4u](https://twitter.com/ayosol4u) , [Linkedin: solomonayodeleo](https://www.linkedin.com/in/solomonayodeleo/)
+*   📫 You can reach me here - [Linkedin: solomonayodeleo](https://www.linkedin.com/in/solomonayodeleo/)
 *   😄 Pronouns: He/His/Him
 *   ⚡ Fun fact: 
 
