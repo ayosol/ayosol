@@ -15,9 +15,10 @@ Software Developer || Technical Lead || Programming Tutor
 *   😄 Pronouns: He/His/Him
 *   ⚡ Fun fact: 
 
+<br/>
+<br/>
 
 ### LANGUAGE, TOOLS  AND SKILLS
-
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
@@ -40,7 +41,9 @@ Software Developer || Technical Lead || Programming Tutor
                                 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 <a href="https://github.com/ayosol" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayosol&langs_count=4&title_color=3382ed&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 </p>
-                    
+
+<br/>
+<br/>
                     
 ### SOCIALS
 <img src="https://img.shields.io/twitter/follow/ayosol4u?logo=twitter&style=for-the-badge&color=0891b2&labelColor=000000"/></a>
@@ -59,8 +62,10 @@ Software Developer || Technical Lead || Programming Tutor
 <a href="https://www.twitter.com/ayosol4u" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 
 
-### BADGES
+<br/>
+<br/>
 
+### BADGES
 <b>My GitHub Stats</b><br/>
 <a href="http://www.github.com/ayosol"><img src="https://github-readme-stats.vercel.app/api?username=ayosol&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&show_icons=true" alt="ayosol's GitHub stats" /></a>
 <a href="http://www.github.com/ayosol">
