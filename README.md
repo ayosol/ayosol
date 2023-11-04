@@ -5,15 +5,12 @@ Software Developer || Technical Lead || Programming Tutor
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayosol&label=Views&color=blue&style=plastic" alt="ayosol" /> </p>
 
-*   🌍  I'm based in Lagos, Nigeria
 *   ✉️  You can contact me at [solomonayodeleo@gmail.com](mailto:solomonayodeleo@gmail.com)
-*   🤝  I'm open to collaborating on project related to mobile or web frontend<a href="https://www.twitter.com/ayosol4u" target="_blank" rel="noreferrer"></a>
-*   🌱 I currently work with React Native and Flutter.
-*   👯 I’m looking to collaborate on any interesting mobile project.
-*   💬 Ask me about Mobile Development.
+*   🤝  I'm open to collaborating on all kinds of projects but I prefer mobile or backend roles<a href="https://www.twitter.com/ayosol4u" target="_blank" rel="noreferrer"></a>
+*   🌱 I currently work with stacks including React Native, Android, Node.js, Python, WordPress and dotNet.
 *   📫 You can reach me here - [Linkedin: solomonayodeleo](https://www.linkedin.com/in/solomonayodeleo/)
 *   😄 Pronouns: He/His/Him
-*   ⚡ Fun fact: 
+*   ⚡ Fun fact: I play multiple musical instruments and I love challenges
 
 <br/>
 
