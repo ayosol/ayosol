@@ -5,7 +5,6 @@ Software Developer || Technical Lead || Programming Tutor
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayosol&label=Views&color=blue&style=plastic" alt="ayosol" /> </p>
 
-*   ✉️  You can contact me at [solomonayodeleo@gmail.com](mailto:solomonayodeleo@gmail.com)
 *   🤝  I'm open to collaborating on all kinds of projects but I prefer mobile or backend roles<a href="https://www.twitter.com/ayosol4u" target="_blank" rel="noreferrer"></a>
 *   🌱 I currently work with stacks including React Native, Android, Node.js, Python, WordPress and dotNet.
 *   📫 You can reach me here - [Linkedin: solomonayodeleo](https://www.linkedin.com/in/solomonayodeleo/)
